@@ -1,6 +1,4 @@
 
-[![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
-
 # Lpage
 Simple Landing page
 
@@ -130,10 +128,12 @@ url[https://openclassrooms.com/fr/courses/6739646-realisez-un-cahier-des-charges
 " En tant que client, je veux voir la liste de mes précédentes commandes sur le site web
 et afficher le détail de chacune d'entre elles, afin de visualiser mon historique de commandes. "
 
-# Project Name 🚀
+# Landing Page 🚀
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
+[![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+
 
 ## 📌 Overview
 This project is a modern web application designed to deliver high performance, clean architecture, and a smooth user experience.
