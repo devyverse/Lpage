@@ -128,3 +128,64 @@ url[https://openclassrooms.com/fr/courses/6739646-realisez-un-cahier-des-charges
 
 " En tant que client, je veux voir la liste de mes précédentes commandes sur le site web
 et afficher le détail de chacune d'entre elles, afin de visualiser mon historique de commandes. "
+
+
+# Projet Digital — Plateforme Web Haute Performance 🚀
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
+
+## 📌 Description
+Ce projet est une plateforme web moderne inspirée des standards professionnels utilisés par **Eyekiller**, une agence digitale primée spécialisée dans les sites haute performance, l’UX/UI, le Craft CMS, le SEO et le marketing digital.
+L’objectif est de fournir une base solide pour créer des sites **scalables**, **rapides**, **accessibles**, et **optimisés pour la conversion**.
+
+## 📚 Table des matières
+- [Fonctionnalités](#-fonctionnalités)
+- [Technologies](#-technologies)
+- [Installation](#-installation)
+- [Utilisation](#-utilisation)
+- [Configuration](#-configuration)
+- [Architecture](#-architecture)
+- [Contribuer](#-contribuer)
+- [Licence](#-licence)
+- [Auteurs](#-auteurs)
+
+---
+
+## ✨ Fonctionnalités
+- **Craft CMS** — CMS flexible, sécurisé et performant
+- **UX/UI optimisée** — Navigation intuitive, parcours utilisateur fluide
+- **Accessibilité WCAG 2.2** — Design inclusif conforme aux standards
+- **SEO technique avancé** — Structure optimisée pour le référencement
+- **Intégrations API** — Modules personnalisés, connexions externes
+- **Performance élevée** — Temps de chargement optimisés, code propre
+- **Sécurité renforcée** — Pratiques conformes Cyber Essentials Plus (inspiration)
+
+---
+
+## 🛠️ Technologies
+- **Craft CMS** (backend + gestion de contenu)
+- **Twig** (templating)
+- **Tailwind CSS** (design moderne)
+- **Alpine.js / Vue.js** (interactions légères)
+- **MySQL / PostgreSQL**
+- **Docker** (optionnel)
+- **SEO Tools** (sitemap, meta, schema)
+
+---
+
+## 🔧 Installation
+
+### Prérequis
+- PHP ≥ 8.2
+- Composer ≥ 2
+- MySQL ou PostgreSQL
+- Node.js ≥ 18
+- npm ou pnpm
+
+### Installation du projet
+```bash
+git clone https://github.com/ton-projet.git
+cd ton-projet
+composer install
+npm install
