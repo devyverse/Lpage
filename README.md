@@ -15,6 +15,7 @@ Simple Landing page
 
 ## Wireframe (Designer)
  - Designe sur un papîer ensuite je scanne avec une imprimante
+ - Typographie , palette de couleur mentionnés.
 
 ### Page d'accueil
 - la promesse de notre restaurant ; ( TITRE PROMESSE  + LOGO XS --> section HERO  )
@@ -129,61 +130,63 @@ url[https://openclassrooms.com/fr/courses/6739646-realisez-un-cahier-des-charges
 " En tant que client, je veux voir la liste de mes précédentes commandes sur le site web
 et afficher le détail de chacune d'entre elles, afin de visualiser mon historique de commandes. "
 
-
-# Projet Digital — Plateforme Web Haute Performance 🚀
+# Project Name 🚀
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
 
-## 📌 Description
-Ce projet est une plateforme web moderne inspirée des standards professionnels utilisés par **Eyekiller**, une agence digitale primée spécialisée dans les sites haute performance, l’UX/UI, le Craft CMS, le SEO et le marketing digital.
-L’objectif est de fournir une base solide pour créer des sites **scalables**, **rapides**, **accessibles**, et **optimisés pour la conversion**.
+## 📌 Overview
+This project is a modern web application designed to deliver high performance, clean architecture, and a smooth user experience.
+It follows industry best practices inspired by award‑winning digital agencies and modern development workflows.
 
-## 📚 Table des matières
-- [Fonctionnalités](#-fonctionnalités)
-- [Technologies](#-technologies)
+The goal is to provide a solid foundation for building scalable, secure, and user‑friendly digital products.
+
+## 📚 Table of Contents
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
 - [Installation](#-installation)
-- [Utilisation](#-utilisation)
+- [Usage](#-usage)
 - [Configuration](#-configuration)
-- [Architecture](#-architecture)
-- [Contribuer](#-contribuer)
-- [Licence](#-licence)
-- [Auteurs](#-auteurs)
+- [Project Structure](#-project-structure)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Authors](#-authors)
+- [Acknowledgements](#-acknowledgements)
 
 ---
 
-## ✨ Fonctionnalités
-- **Craft CMS** — CMS flexible, sécurisé et performant
-- **UX/UI optimisée** — Navigation intuitive, parcours utilisateur fluide
-- **Accessibilité WCAG 2.2** — Design inclusif conforme aux standards
-- **SEO technique avancé** — Structure optimisée pour le référencement
-- **Intégrations API** — Modules personnalisés, connexions externes
-- **Performance élevée** — Temps de chargement optimisés, code propre
-- **Sécurité renforcée** — Pratiques conformes Cyber Essentials Plus (inspiration)
+## ✨ Features
+- High‑performance architecture
+- Modern UI/UX design
+- SEO‑friendly structure
+- Secure and scalable backend
+- API integrations
+- Responsive and accessible front‑end
+- Clean code and maintainable structure
 
 ---
 
-## 🛠️ Technologies
-- **Craft CMS** (backend + gestion de contenu)
-- **Twig** (templating)
-- **Tailwind CSS** (design moderne)
-- **Alpine.js / Vue.js** (interactions légères)
+## 🛠 Tech Stack
+- **Craft CMS / Next.js / Node.js** (depending on your project)
+- **Tailwind CSS**
+- **Twig / React / Vue**
 - **MySQL / PostgreSQL**
-- **Docker** (optionnel)
-- **SEO Tools** (sitemap, meta, schema)
+- **Docker** (optional)
+- **ESLint + Prettier**
+- **SEO tools & performance monitoring**
 
 ---
 
 ## 🔧 Installation
 
-### Prérequis
-- PHP ≥ 8.2
-- Composer ≥ 2
-- MySQL ou PostgreSQL
+### Requirements
 - Node.js ≥ 18
-- npm ou pnpm
+- npm or pnpm
+- PHP ≥ 8.2 (if using Craft CMS)
+- Composer ≥ 2
+- MySQL or PostgreSQL
 
-### Installation du projet
+### Clone the repository
 ```bash
 git clone https://github.com/ton-projet.git
 cd ton-projet
